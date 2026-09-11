@@ -13,7 +13,7 @@
       <router-link to="/admissions">Admissions</router-link>
       <router-link to="/academics">Academics</router-link>
       <router-link to="/sample3">Sample3</router-link>
-      <router-link to="/sample2">sample2</router-link>
+      <router-link to="/sample2">Sample2</router-link>
       <router-link to="/sample">Sample</router-link>
     </nav>
     </header>
