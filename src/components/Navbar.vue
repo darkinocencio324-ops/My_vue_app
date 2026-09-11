@@ -1,7 +1,7 @@
 <template>
     <header class="navbar">
         <div class="logo_container">
-            <img alt="CPUlogo" class="logo" src="@/assets/CPULogo.png" width="50" height="50" />
+            <img alt="CPUlogo" class="logo" src="@/assets/PicLogo.jpg" width="50" height="50" />
             <div class="logo-text">
                 <span class="brand-title">Central Philippine University</span>
                 <span class="brand-motto">SCIENTIA ET FIDES</span>

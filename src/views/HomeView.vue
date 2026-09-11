@@ -57,7 +57,7 @@ import Navbar from '../components/Navbar.vue';
       <!-- Right Card Column -->
       <div class="hero-right">
         <div class="gradient-card">
-          <img alt="CPUlogo" class="logo" src="@/assets/CPULogo.png" width="125" height="125" />
+          <img alt="CPUlogo" class="logo" src="@/assets/PicLogo.jpg" width="125" height="125" />
           <h2 class="card-title">Central Philippine<br />University</h2>
           <p class="card-subtitle">SCIENTIA ET FIDES</p>
           <div class="card-divider"></div>
